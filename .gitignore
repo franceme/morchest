@@ -1,0 +1,7 @@
+dist/
+build/
+package_name/__pycache__/
+*.pkl
+Makefile
+morchest.egg-info/
+morchest/__pycache__/
